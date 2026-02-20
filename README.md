@@ -46,4 +46,4 @@ Me chamo Yan Mohammed Mahasan, tenho 15 anos e sou natural de Curitiba,PR. Atual
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
