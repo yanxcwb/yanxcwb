@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Yan Mohammed Mahasan
+gh# 👩🏻‍💻 Yan Mohammed Mahasan
 
 **`Estudando para ser Desenvolvedor Front-end`**
 
@@ -47,3 +47,5 @@ Me chamo Yan Mohammed Mahasan, tenho 15 anos e sou natural de Curitiba,PR. Atual
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+    </br>
+    
